@@ -35,7 +35,7 @@ function help(){
 	\n aspx HTTP windows/meterpreter/reverse_http
 	\n java HTTP java/meterpreter/reverse_http
 	\n powershell HTTP windows/meterpreter/reverse_http
-	\n python TCP,HTTP python/meterpreter/reverse_http
+	\n python HTTP python/meterpreter/reverse_http
 	\n tomcat HTTP java/meterpreter/reverse_http" | column -t
 	echo -e "\n"
 	echo -e "${YELLOW}[!] WARNING! Recommendable run ShellXploit with root.${NC}"
