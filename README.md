@@ -6,8 +6,8 @@ ShellXploit is a fantastic tool to use with Social Engineering Techniques to gai
 # Setup
 The setup of this tool is very easy. Just give execution permission to `setup.sh` and `shellxploit.sh`:
 
-`chmod +x setup.sh`
-`chmod +x shellxploit.sh`
+- `chmod +x setup.sh`
+- `chmod +x shellxploit.sh`
 
 # How to use
 Learn how ShellXploit works! =)
