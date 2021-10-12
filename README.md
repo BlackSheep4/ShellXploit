@@ -14,6 +14,7 @@ The setup of this tool is very easy. Just give execution permission to `setup.sh
 Learn how ShellXploit works! =)
 ## How to use setup.sh
 Before running `shellxploit.sh`, you need to run` setup.sh` for forwarding port 80 on this website: https://localhost.run/
+
 The script will search the tools needed, if the tools are not found, `setup.sh` will install them.
 **It is recommended to run it with root privileges.**
 
